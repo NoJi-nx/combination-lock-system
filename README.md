@@ -1,10 +1,5 @@
 # Project: button-matrix-lock-system
 
-
-<img src="./imgs/IMG_3915.png">
-
-<img src="./imgs/IMG_3916.png">
-
 ## Overview
 
 An embedded systems project using two ESP32-C6 MCUs & Arduino IoT Cloud.
