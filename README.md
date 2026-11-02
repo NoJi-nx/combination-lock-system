@@ -1,2 +1,5 @@
-# combination-lock-system
-IoT-based combination lock system using two MCUs, 3x3 buttons matrix, buzzer &amp; RGB LED as well as Arduino Cloud
+# Project: Password security lock
+
+
+<img src="./imgs/IMG_3915.png">
+<img src="./imgs/IMG_3916.png">
